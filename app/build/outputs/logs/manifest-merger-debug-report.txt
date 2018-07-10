@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:2:1-61:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/815f8e7756f097e36baf338584bb2d9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/72f167375a68f90249b2078f80a0f9ec/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/8c9c11c67ef5c53d1f9f6c8f9ea97587/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/ec4c47eac5f3859e33dc9ddc53ce862a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/c31d29310e93dcdd10284c0470e29184/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/bd4adebefe1b8fff0ff44d621e0b85f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/ccb9e11a1556a35e7696b64410b2df6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/e7262c2640d15a507a249a454a480baa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/f90b8a3e2921d6dea9e6f7f5e3da8d5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/e6bb676b57e8ceb26119dd593195f31f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/7e2a4b17ebc10507e0a7904ab5fb4366/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/00be9b72ccca501cb045c5eed68c3422/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/9861b9670689fbfb44890bc787f39711/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/c1469fa08a41fd06875f812f5ed922bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/16c1803043d2ee1263a17870a8dfd913/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/f3dc163776760176258d3d9204270ccc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/8982243c8ed547e5c7851e4395603860/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e9aaf01908c2ca884ee5282a17828981/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/398c266f7e18582fbacc9e82a5455409/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/6936f4d2f13289f79dae27a7634b030c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/a01b6cbddd0f787eeba461c5df96e200/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/228f3e1e4569d1eb40e0e693967ff0f2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2d3352c0963ae6daaa03352284916bfe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ca60e22159666605a9e3345799620806/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a29ae2b943448c674b53ceb4f7da0b40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/ef5ac01da04f70c4b3f9b47ca43ca0d8/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:2:1-61:12
+		INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:2:1-61:12
+		INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:6:22-67
+application
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:8:5-59:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/72f167375a68f90249b2078f80a0f9ec/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/72f167375a68f90249b2078f80a0f9ec/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/f3dc163776760176258d3d9204270ccc/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/f3dc163776760176258d3d9204270ccc/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/398c266f7e18582fbacc9e82a5455409/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/398c266f7e18582fbacc9e82a5455409/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/f3dc163776760176258d3d9204270ccc/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:14:9-40
+activity#in.codingninjas.envision.expensemanager.MainActivity
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:19:27-74
+activity#in.codingninjas.envision.expensemanager.ShowDetailsActivity
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:22:9-57
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:22:19-54
+activity#in.codingninjas.envision.expensemanager.EditExpenseActivity
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:23:9-31:20
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:23:19-54
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:24:13-30:29
+action#android.intent.action.SEND
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:25:25-66
+data
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:27:17-55
+	android:mimeType
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:27:23-52
+category#android.intent.category.DEFAULT
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:29:27-73
+activity#in.codingninjas.envision.expensemanager.SettingsActivity
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:32:9-54
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:32:19-51
+receiver#in.codingninjas.envision.expensemanager.SMSReceiver
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:34:9-41:20
+	android:enabled
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:35:13-40
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:38:13-40:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:39:25-79
+receiver#in.codingninjas.envision.expensemanager.AlarmReceiver
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:43:9-47:20
+	android:enabled
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:44:13-42
+receiver#in.codingninjas.envision.expensemanager.BootCompletedReceiver
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:49:9-56:20
+	android:enabled
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:51:13-35
+	android:exported
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:50:13-50
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:53:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:54:17-79
+	android:name
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml:54:25-76
+uses-sdk
+INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/815f8e7756f097e36baf338584bb2d9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/815f8e7756f097e36baf338584bb2d9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/72f167375a68f90249b2078f80a0f9ec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/72f167375a68f90249b2078f80a0f9ec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/8c9c11c67ef5c53d1f9f6c8f9ea97587/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/8c9c11c67ef5c53d1f9f6c8f9ea97587/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/ec4c47eac5f3859e33dc9ddc53ce862a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/ec4c47eac5f3859e33dc9ddc53ce862a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/c31d29310e93dcdd10284c0470e29184/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/c31d29310e93dcdd10284c0470e29184/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/bd4adebefe1b8fff0ff44d621e0b85f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/bd4adebefe1b8fff0ff44d621e0b85f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/ccb9e11a1556a35e7696b64410b2df6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/ccb9e11a1556a35e7696b64410b2df6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/e7262c2640d15a507a249a454a480baa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/e7262c2640d15a507a249a454a480baa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/f90b8a3e2921d6dea9e6f7f5e3da8d5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/f90b8a3e2921d6dea9e6f7f5e3da8d5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/e6bb676b57e8ceb26119dd593195f31f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/e6bb676b57e8ceb26119dd593195f31f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/7e2a4b17ebc10507e0a7904ab5fb4366/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/7e2a4b17ebc10507e0a7904ab5fb4366/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/00be9b72ccca501cb045c5eed68c3422/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/00be9b72ccca501cb045c5eed68c3422/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/9861b9670689fbfb44890bc787f39711/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/9861b9670689fbfb44890bc787f39711/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/c1469fa08a41fd06875f812f5ed922bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/c1469fa08a41fd06875f812f5ed922bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/16c1803043d2ee1263a17870a8dfd913/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/16c1803043d2ee1263a17870a8dfd913/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/f3dc163776760176258d3d9204270ccc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/f3dc163776760176258d3d9204270ccc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/8982243c8ed547e5c7851e4395603860/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/8982243c8ed547e5c7851e4395603860/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e9aaf01908c2ca884ee5282a17828981/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e9aaf01908c2ca884ee5282a17828981/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/398c266f7e18582fbacc9e82a5455409/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/398c266f7e18582fbacc9e82a5455409/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/6936f4d2f13289f79dae27a7634b030c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/6936f4d2f13289f79dae27a7634b030c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/a01b6cbddd0f787eeba461c5df96e200/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/a01b6cbddd0f787eeba461c5df96e200/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/228f3e1e4569d1eb40e0e693967ff0f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/228f3e1e4569d1eb40e0e693967ff0f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2d3352c0963ae6daaa03352284916bfe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2d3352c0963ae6daaa03352284916bfe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ca60e22159666605a9e3345799620806/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ca60e22159666605a9e3345799620806/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a29ae2b943448c674b53ceb4f7da0b40/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a29ae2b943448c674b53ceb4f7da0b40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/ef5ac01da04f70c4b3f9b47ca43ca0d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/akanksha/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/ef5ac01da04f70c4b3f9b47ca43ca0d8/AndroidManifest.xml:20:5-44
+INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Mon Jul 09 12:52:47 IST 2018
+base.0=/Users/akanksha/Downloads/Expense-Multi-View-List-Assignment-master/app/build/intermediates/transforms/dexMerger/debug/33
+path.0=classes.dex
+renamed.0=classes.dex
